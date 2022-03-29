@@ -1,9 +1,22 @@
-import React from "react";
+import React, { Fragment } from "react";
 import PropTypes from 'prop-types'
 
+import  "../styles/letraStyle.css";
+
 const LetraCancion = (props) => {
+
     return(
-        <p>{props.letra}</p>
+        <Fragment>
+            {props.letra === "" ? (
+                <>
+                </>
+            ) : (
+                <div className="lyricContainer">
+                    <p className="letraStyle">{props.letra}</p>
+                </div>
+            )}
+        </Fragment>
+        
     )
 }
 LetraCancion.propTypes={

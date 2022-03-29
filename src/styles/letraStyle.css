@@ -1,0 +1,14 @@
+.lyricContainer{
+    background: #f2cc8f;
+    width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-radius: 0.2rem;
+}
+
+.letraStyle{
+    font-size: 1.5rem;
+    text-align: justify;
+}

@@ -1,0 +1,43 @@
+@media (max-width: 1920px ) {
+    /* body {
+        background: rgb(0,0,0);
+        background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(62,62,62,1) 100%);
+    } */
+    .formTotal{
+        margin-top: 10rem;
+    }
+    .bg-superior-noche{
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        font-size: 2rem;
+    }
+    
+    .formbox {
+        margin: 5rem auto auto;
+        max-width: 1000px;
+        width: 90%;
+        padding: 3.5rem;
+        background-color: #f2cc8f;
+        border-radius: 1rem;
+    } 
+      
+    .labelForm {
+        display: block;
+        margin: 1rem 0;
+        color: black;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+    }
+    
+    form input[type="text"]{
+        padding: 0.5rem;
+        width: 100%;
+        border-radius: 0.2rem;
+    }
+    .boton-buscar{
+        border-radius: 0.1rem;
+    }
+     
+    
+    }
+    

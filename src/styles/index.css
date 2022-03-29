@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+/* 
+
+body {
+    background-color: #f4f1de;
+}
+
+legend{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+form{
+    margin: 5rem auto auto;
+    max-width: 1000px;
+    width: 90%;
+    padding: 3.5rem;
+    background-color: #f2cc8f;
+    border-radius: 1rem;
+}
+  
+label{
+    display: block;
+    margin: 1rem 0;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+form input[type="text"]{
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 0.2rem;
+}
+.boton-buscar{
+    border-radius: 0.1rem;
+}
+  */
